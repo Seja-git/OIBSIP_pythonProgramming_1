@@ -26,7 +26,7 @@ It can tell you the time, search Google, open YouTube, greet you, and more.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Seja-git/Task1_voiceAssistance.git
+   git clone https://github.com/Seja-git/OIBSIP_pythonProgramming_1.git
    cd Task1_voiceAssistance
 
 pip install -r requirements.txt
